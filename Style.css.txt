@@ -1,0 +1,1 @@
+Hay que agregar los estilos  de colores trasnparentes en el fondo de INDEX.HTML
